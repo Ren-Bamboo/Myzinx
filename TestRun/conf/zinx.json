@@ -1,0 +1,9 @@
+{
+  "Host": "127.0.0.1",
+  "Port": 8889,
+  "Name": "Myzinx",
+  "MaxConn": 3,
+  "MaxPackageSize": 1024,
+  "WorkPoolSize":   3,
+  "MaxTaskSize":    1024
+}
